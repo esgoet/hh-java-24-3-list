@@ -1,4 +1,4 @@
-package school;
+package school.list;
 
 import org.junit.jupiter.api.Test;
 

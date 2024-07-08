@@ -1,4 +1,4 @@
-package school;
+package school.list;
 
 public class Course {
     private String name;
@@ -17,7 +17,7 @@ public class Course {
 
     @Override
     public String toString() {
-        return "school.Course{" +
+        return "school.list.Course{" +
                 "name='" + name + '\'' +
                 ", instructor='" + instructor + '\'' +
                 ", room='" + room + '\'' +

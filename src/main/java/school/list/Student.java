@@ -1,4 +1,4 @@
-package school;
+package school.list;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -47,7 +47,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "school.Student{" +
+        return "school.list.Student{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", id=" + id +
